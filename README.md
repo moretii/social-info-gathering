@@ -10,6 +10,7 @@ In this repo, We want to introduce you some amazing tools for information gather
 - [inspy](https://github.com/leapsecurity/InSpy)
 - [twint](https://github.com/twintproject/twint)
 - [onemilliontweetmap](http://onemilliontweetmap.com/)
+- [discover](https://github.com/leebaird/discover)
 
 ### Based on Phone Number/Personal Info
 - [phoneinfoga](https://github.com/sundowndev/phoneinfoga)
